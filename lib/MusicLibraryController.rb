@@ -38,11 +38,9 @@ class MusicLibraryController
           when "play song"
             self.play_song
         end
-            
-          
-        end
       end
     end
+  end # => End call
 
     def list_songs
       result = Array.new
