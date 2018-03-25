@@ -39,7 +39,6 @@ class MusicLibraryController
             self.play_song
         end
       end
-    end
   end # => End call
 
     def list_songs
